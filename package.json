@@ -1,0 +1,20 @@
+{
+  "name": "npmdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "exports": {
+    "require": "./index.js",
+    "import": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "rollup": "^4.60.2"
+  }
+}
