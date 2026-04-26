@@ -18,4 +18,4 @@ jobs: # 任务的集合
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: /.vitepress/dist # The folder the action should deploy.
+          folder: .vitepress/dist # The folder the action should deploy.
